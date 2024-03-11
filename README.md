@@ -1,2 +1,2 @@
 # Lab-s2
-Object oriented programming
+WUT Lab projects 2023/2024 Object oriented programming 
